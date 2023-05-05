@@ -1,0 +1,9 @@
+server:
+  port: 3001
+
+db:
+  type: 'mysql'
+  port: 3306
+  database: 'g_user'
+  username: 'root'
+  password: 'rladlsxogkftndlTek!!'
